@@ -1,0 +1,19 @@
+### Maven template
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+/.idea
+/sli.iml
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+### Java template
+*.class
+
+# Package Files #
+*.jar
+.idea
+*.iml
